@@ -90,6 +90,7 @@ header{
     box-shadow: 0 .1rem .7rem #000000;
     max-height: 35rem;
     overflow: auto;
+    display: none;
 }
 
 .producto-carrito img{

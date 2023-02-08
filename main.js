@@ -1,8 +1,8 @@
 // Funcion que sirve para que no se abra el carrito de compras al cargar la página
 
-window.onload = function() {
-    document.getElementById("productos-en-carrito").style.display = "none";
-};
+// window.onload = function() {
+//     document.getElementById("productos-en-carrito").style.display = "none";
+// };
 
 // Mostrar el carrito de compras al hacer click en su icono
 
